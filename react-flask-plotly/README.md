@@ -1,6 +1,6 @@
 # Create a simple plotting application using Flask, React and Plotly
 
-Setting up a basic project that has a Flask Backend, React Frontend and Displays a Histogram using Plotly. The following setup was executed on macOS 10.15.4  
+This is a tutorial for setting up a basic project that has a Flask backend, React frontend and displays a histogram using Plotly. The following setup was executed on macOS 10.15.4  
 
 The instructions for basic Flask and React setup are taken from [this blog](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project)
 
